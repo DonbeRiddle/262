@@ -9,6 +9,10 @@ body {
     line-height: 8px;
 }
 
+.hidden {
+    display: none;
+}
+
 input {
     background-color: black;
     font-family: "kaku";
